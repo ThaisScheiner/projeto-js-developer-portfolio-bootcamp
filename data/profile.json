@@ -36,7 +36,8 @@
         "Empatia",
         "Trabalho em equipe",
         "Flexibilidade",
-        "Organização"
+        "Organização",
+        "Autodidata"
       ]
     },
     "languages": [
@@ -52,6 +53,21 @@
       {
         "name": "Exercicios de aprendizagem do Bootcamp Formação JavaScript - DIO",
         "url": "https://github.com/ThaisScheiner/javascript-developer-m1-exercicios-do-bootcamp",
+        "github": true
+      },
+      {
+        "name": "Desafio bootcamp Avanade - .NET Developer - API e Entity Framework",
+        "url": "https://github.com/ThaisScheiner/trilha-net-api-desafio",
+        "github": true
+      },
+      {
+        "name": "Curso sobre integração do Spring com Angular, desenvolvendo um CRUD parecido com um projeto real, da Loiane no https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY",
+        "url": "https://github.com/ThaisScheiner/CursoJavaComAngular-JavaComSpring",
+        "github": true
+      },
+      {
+        "name": "Acompanhando o curso da Loiane no https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY onde faço a integração de java(backend) com angular(frontend), em andamento.",
+        "url": "https://github.com/ThaisScheiner/CursoJavaComAngular-Angular-TypeScript",
         "github": true
       }
     ],
