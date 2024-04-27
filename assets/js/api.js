@@ -1,7 +1,9 @@
 
 async function fetchProfileData() {
-    const url = ' https://thaisscheiner.github.io/projeto-js-developer-portfolio-bootcamp/'
+    const url = 'https://raw.githubusercontent.com/ThaisScheiner/projeto-js-developer-portfolio-bootcamp/main/data/profile.json'
     const response = await fetch(url)
     const profileData = await response.json()
     return profileData
 }
+
+// https://bh-tec.github.io/Portfolio-API/profile.json
