@@ -6,4 +6,3 @@ async function fetchProfileData() {
     return profileData
 }
 
-// https://bh-tec.github.io/Portfolio-API/profile.json
