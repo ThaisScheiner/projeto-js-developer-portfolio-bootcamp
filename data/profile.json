@@ -1,0 +1,53 @@
+{
+    "name": "Thais Scheiner",
+    "photo": "https://avatars.githubusercontent.com/u/88663991?v=4",
+    "job": "Junior Developer",
+    "location": "São Paulo - SP",
+    "phone": "(11) 99999-9999",
+    "email": "exemplo@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "Mysql",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (básico - intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Desafio bootcamp Avanade - .NET Developer - Teste unitario com C#",
+        "url": "https://github.com/ThaisScheiner/desafio-testes-unitarios-calc",
+        "github": true
+      },
+      {
+        "name": "Exercicios de aprendizagem do Bootcamp Formação JavaScript - DIO",
+        "url": "https://github.com/ThaisScheiner/javascript-developer-m1-exercicios-do-bootcamp",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão",
+        "period": "2022 - até o momento",
+        "description": "O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500."
+      }
+    ]
+  }
