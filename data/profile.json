@@ -84,7 +84,8 @@
       {
         "name": "Linkedin",
         "period": "",
-        "url": "https://www.linkedin.com/in/thaisscheiner/"
+        "url": "https://www.linkedin.com/in/thaisscheiner/",
+        "linkedin": true
       }
     ]
   }
