@@ -46,6 +46,11 @@
     ],
     "portfolio": [
       {
+        "name": "Integrando API NET C# com Entity Framework - Front-end com ASP.NET MVC - DIO",
+        "url": "https://github.com/ThaisScheiner/ASP-MVC-api-entity-dot-net",
+        "github": true
+      },
+      {
         "name": "Desafio bootcamp Avanade - .NET Developer - Teste unitario com C#",
         "url": "https://github.com/ThaisScheiner/desafio-testes-unitarios-calc",
         "github": true
