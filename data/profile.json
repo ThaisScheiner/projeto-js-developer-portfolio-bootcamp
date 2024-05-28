@@ -50,6 +50,11 @@
     ],
     "portfolio": [
       {
+        "name": "Sistema de Cadastro de Contatos Virtual Usando C# com ASP.NET MVC + SQLServer",
+        "url": "https://github.com/ThaisScheiner/SistemaContatos",
+        "github": true
+      },
+      {
         "name": "Integrando API NET C# com Entity Framework - Front-end com ASP.NET MVC - DIO",
         "url": "https://github.com/ThaisScheiner/ASP-MVC-api-entity-dot-net",
         "github": true
